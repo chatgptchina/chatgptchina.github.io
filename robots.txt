@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://chatgptchina.github.io/sitemap.xml
+Sitemap: https://chatgptchina.github.io/baidusitemap.xml
