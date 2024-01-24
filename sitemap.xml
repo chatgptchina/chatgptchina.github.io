@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chatgptchina.github.io.com/2024/01/24/chatgpt-plus-purchase-tutorial-2024/</loc>
+    
+    <lastmod>2024-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chatgptchina.github.io.com/2024/01/24/chatgpt-register-in-china-2024/</loc>
     
     <lastmod>2024-01-23</lastmod>
@@ -13,7 +22,7 @@
 
   <url>
     <loc>https://chatgptchina.github.io.com/</loc>
-    <lastmod>2024-01-23</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,7 +30,7 @@
   
   <url>
     <loc>https://chatgptchina.github.io.com/tags/chatgpt/</loc>
-    <lastmod>2024-01-23</lastmod>
+    <lastmod>2024-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
