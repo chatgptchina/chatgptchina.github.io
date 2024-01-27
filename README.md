@@ -1,12 +1,10 @@
----
-title: 2024 如何充值 ChatGPT Plus，升级 GPT4
----
+# 2024 如何充值 ChatGPT Plus，GPT4 升级指南
 
 目前，国内能成功充值 ChatGPT Plus 的方法并不多。
 
 网络上流行的方法主要包括：AppStore 礼品卡、信用卡。
+
 ___
-<br>
 
 ## 一、通过 AppStore 礼品卡
 
